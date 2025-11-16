@@ -1,5 +1,9 @@
 # Python-project1 
 This is an online car rental system written in python working with text files as database.
+
+Python File Operations were used.
+<br>
+```
            Vehicle Menu
 Display Cars                       1
 Add/delete Vehicle                 2
@@ -37,3 +41,5 @@ A for available vehicles or R for vehicles on rent: A
 +---------------------+-----------------------+-------------------------+-------------------+----------------+
 
 Press ENTER to return to main menu...
+```
+
